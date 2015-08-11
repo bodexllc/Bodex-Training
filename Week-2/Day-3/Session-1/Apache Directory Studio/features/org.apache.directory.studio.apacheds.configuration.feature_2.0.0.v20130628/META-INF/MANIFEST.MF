@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Implementation-Title: Apache Directory Studio ApacheDS Configuration F
+ eature
+Implementation-Version: 2.0.0.v20130628
+Specification-Vendor: The Apache Software Foundation
+Built-By: pajbam
+Tool: Bnd-1.50.0
+Bundle-Name: Apache Directory Studio ApacheDS Configuration Feature
+Bundle-Localization: plugin
+Created-By: Apache Maven Bundle Plugin
+Bundle-Vendor: The Apache Software Foundation
+Implementation-Vendor: The Apache Software Foundation
+Eclipse-LazyStart: true
+Implementation-Vendor-Id: org.apache.directory.studio
+Bundle-Version: 2.0.0.v20130628
+Build-Jdk: 1.7.0_25
+Bnd-LastModified: 1372421016127
+Bundle-ManifestVersion: 2
+Specification-Title: Apache Directory Studio ApacheDS Configuration Fe
+ ature
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-SymbolicName: org.apache.directory.studio.apacheds.configuratio
+ n.feature;singleton:=true
+Bundle-DocURL: http://www.apache.org/
+Specification-Version: 2.0.0.v20130628
+Archiver-Version: Plexus Archiver
+

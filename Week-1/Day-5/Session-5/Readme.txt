@@ -1,0 +1,1 @@
+Add AEM Extensions as a plugin to your browser
